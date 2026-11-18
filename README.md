@@ -1,3 +1,10 @@
+## 🚀 Live Demo
+
+**Try Coy Discover:** https://coy-discover-two.vercel.app/
+
+Explore profiles, like or pass, and discover mutual matches.
+
+
 # Coy Discover 💗
 
 A mobile-first dating discovery application built with React, Node.js, Express and SQLite. Coy Discover allows users to explore profiles, like or pass on people, and connect through mutual matches.
